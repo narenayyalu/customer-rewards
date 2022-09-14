@@ -1,0 +1,38 @@
+[
+	{
+		"userId": 123,
+		"transactionDate":"2022-09-13",
+		"transactionAmount": 51,
+		"transactionType": "debit"
+	},
+	{
+		"userId": 123,
+		"transactionDate":"2022-09-10",
+		"transactionAmount": 120,
+		"transactionType": "debit"
+	},
+	{
+		"userId": 123,
+		"transactionDate":"2022-08-13",
+		"transactionAmount": 300,
+		"transactionType": "debit"
+	},
+	{
+		"userId": 123,
+		"transactionDate":"2022-07-13",
+		"transactionAmount": 43,
+		"transactionType": "debit"
+	},
+	{
+		"userId": 124,
+		"transactionDate":"2022-09-13",
+		"transactionAmount": 20,
+		"transactionType": "debit"
+	},
+	{
+		"userId": 124,
+		"transactionDate":"2022-07-13",
+		"transactionAmount": 89,
+		"transactionType": "debit"
+	}
+]
